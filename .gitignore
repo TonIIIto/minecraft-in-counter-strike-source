@@ -1,0 +1,28 @@
+# build output and downloads
+bin/
+deps/
+downloads/
+dist/
+mc/build/
+mc/.gradle/
+mc/run/
+mc/out/
+*.class
+*.obj
+*.exp
+*.lib
+*.pdb
+
+# local machine settings and logs (can contain your Windows user name and paths)
+local-config.cmd
+*.log
+*.out
+*.err
+console.log
+
+# editor / OS
+.idea/
+.vscode/
+.vs/
+Thumbs.db
+desktop.ini
